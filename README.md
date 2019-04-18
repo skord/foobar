@@ -1,2 +1,2 @@
 # foobar
-widget
+widget. #1

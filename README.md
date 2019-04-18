@@ -1,2 +1,2 @@
 # foobar
-widget. 
+A really cool widget. 
